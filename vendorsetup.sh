@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_sofiap-user
-add_lunch_combo omni_sofiap-userdebug
-add_lunch_combo omni_sofiap-eng
+COMMON_LUNCH_CHOICES twrp_sofiap-user
+COMMON_LUNCH_CHOICES twrp_sofiap-userdebug
+COMMON_LUNCH_CHOICES twrp_sofiap-eng
